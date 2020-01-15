@@ -14,7 +14,7 @@ h2 {
 
 @include breakpoint-sm {
     .sidebar {
-        lost-column: 5/12;
+        lost-column: 3/12;
         &__inner {
             padding: 50px 20px 0;
             &:after {
