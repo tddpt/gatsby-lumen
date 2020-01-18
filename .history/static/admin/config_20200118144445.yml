@@ -26,7 +26,10 @@ collections:
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: 'Cover Image', name: 'image', widget: 'image', required: false, tagname: ''}
+      - label: 'Cover Image', name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
