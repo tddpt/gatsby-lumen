@@ -27,7 +27,7 @@ const Author = ({ author, isIndex }: Props) => (
     { isIndex === true ? (
       <h2 className={styles['author__title']}>by&nbsp;
         <Link className={styles['author__title-link']} to="/">{author.name}</Link>
-      </h2>
+      </h1>
     ) : (
       <h2 className={styles['author__title']}>by&nbsp;
         <Link className={styles['author__title-link']} to="/">{author.name}</Link>
