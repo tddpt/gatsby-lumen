@@ -15,6 +15,7 @@
     font-weight: 600;
     @include line-height(1.125);
     @include margin(.5, 0, .5, 0);
+    text-shadow: -2px 0 #BF001B, 0 -2px #BF001B, 2px 0 #BF001B, 0 2px #BF001B, 2px 2px #BF001B, -2px -2px #BF001B, -2px 2px #BF001B, 2px -2px #BF001B, 6px 6px #Bf001b;
 
     &-link {
       color: $color-base;

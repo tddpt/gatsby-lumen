@@ -1,7 +1,7 @@
 // @flow strict
 import React from 'react';
 import Author from './Author';
-// import Copyright from './Copyright';
+import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';

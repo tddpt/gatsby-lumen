@@ -4,7 +4,8 @@
 .author {
   &__photo {
     display: inline-block;
-    border: 1px solid $color-gray-border;
+    border-color: $color-gray-border;
+    border-width: ;
     margin-bottom: 0;
     border-radius: 50%;
     background-clip: padding-box;

@@ -1,7 +1,7 @@
 // @flow strict
 import React from 'react';
 import Author from './Author';
-// import Copyright from './Copyright';
+import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
@@ -19,7 +19,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <h2>Lock Groove LP</h2>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        {/* <Copyright copyright={copyright} /> */}
+        // <Copyright copyright={copyright} />
       </div>
     </div>
   );
