@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
@@ -29,21 +29,21 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Blogging about dev and the underground lifestyle with Gatsby!',
     contacts: {
-      // email: '',
-      // facebook: '#',
-      // telegram: '#',
+      email: '',
+      facebook: '#',
+      telegram: '#',
       twitter: 'tnpete',
       github: 'tddpt',
-      // rss: '',
-      // vkontakte: '',
-      // linkedin: '#',
-      // instagram: '#',
-      // line: '',
-      // gitlab: '',
-      // weibo: '',
-      // codepen: '',
-      // youtube: '',
-      // soundcloud: '',
+      rss: '',
+      vkontakte: '',
+      linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };

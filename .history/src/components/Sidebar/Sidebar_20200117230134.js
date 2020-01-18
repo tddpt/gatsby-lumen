@@ -20,7 +20,6 @@ const Sidebar = ({ isIndex }: Props) => {
         <h2>Lock Groove LP</h2>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        <Contacts contacts={author.contacts} />
         {/* <Copyright copyright={copyright} /> */}
       </div>
     </div>
