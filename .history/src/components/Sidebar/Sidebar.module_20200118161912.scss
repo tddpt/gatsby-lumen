@@ -6,7 +6,7 @@
     width: 100%;
     &__inner {
         position: relative;
-        padding: 25px 20px 0;
+        padding: 15px 20px 0;
     }
     h2 {
         margin-top: 0;
@@ -18,7 +18,7 @@
     .sidebar {
         lost-column: 5/12;
         &__inner {
-            padding: 30px 20px 0;
+            padding: px 20px 0;
             &:after {
                 background: $color-gray-border;
                 background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
