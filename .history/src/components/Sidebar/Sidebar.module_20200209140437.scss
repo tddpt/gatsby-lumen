@@ -8,8 +8,8 @@
         padding: 25px 20px 0;
     }
     h2 {
-        display: inline-block;
-        color: $color-base;
+        color: #79b246;
+        margin-bottom: -5px;
         background: url("https://ewebdesign.com/wp-content/themes/ewebdesign/assets/img/wave.svg");
         background-repeat: repeat;
         background-position-x: 0%;
@@ -17,7 +17,7 @@
         background-size: auto auto;
         background-repeat: repeat-x;
         background-size: 15px 5px; 
-        background-position: 12px 30px;
+        background-position: 2px 19px;
         animation: move 15s linear infinite;
         -webkit-animation: move 15s linear infinite;
         animation-play-state: paused;
@@ -25,7 +25,6 @@
         background-color: transparent;
         -webkit-text-decoration-skip: objects;
       }
-      
 }
 
 @include breakpoint-sm {

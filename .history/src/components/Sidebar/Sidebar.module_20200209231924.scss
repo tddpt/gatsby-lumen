@@ -25,6 +25,11 @@
         background-color: transparent;
         -webkit-text-decoration-skip: objects;
       }
+      h2:hover {
+        animation-play-state: running;
+      }
+      
+      
       
 }
 

@@ -4,11 +4,11 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Lock Groove LP',
-  subtitle: 'Web Development and music snobbery.',
+  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {

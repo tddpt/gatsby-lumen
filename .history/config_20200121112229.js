@@ -29,9 +29,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Blogging with Gatsby!',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
+      // email: '',
+      // facebook: '#',
+      // telegram: '#',
       twitter: 'tnpete',
       github: 'tddpt',
       rss: '',

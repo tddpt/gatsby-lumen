@@ -8,8 +8,8 @@
         padding: 25px 20px 0;
     }
     h2 {
-        display: inline-block;
-        color: $color-base;
+        display
+        color: #79b246;
         background: url("https://ewebdesign.com/wp-content/themes/ewebdesign/assets/img/wave.svg");
         background-repeat: repeat;
         background-position-x: 0%;
@@ -25,7 +25,6 @@
         background-color: transparent;
         -webkit-text-decoration-skip: objects;
       }
-      
 }
 
 @include breakpoint-sm {

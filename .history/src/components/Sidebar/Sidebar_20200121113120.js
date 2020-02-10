@@ -16,7 +16,7 @@ const Sidebar = ({ isIndex }: Props) => {
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
-        <h2>Lock Groove LP</h2>
+        <h2>Lock Groove </h2>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <Copyright copyright={copyright} />
